@@ -1,4 +1,4 @@
-# TD_media_player_v1_public
+# touchdesigner MUSIC player
 hello
 shitty music player for touchdesigner
 may tweak/bug out
